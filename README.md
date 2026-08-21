@@ -5,7 +5,9 @@ including its ontological foundations and emergent physical theories.
 
 ## Contents
 Monistic Continuum Model (MCM-V06)
+
 Unified Ontological and Geometric Framework
+
 ├── Emergent Theories …
 ├── Planck‑Vortex Theory (PVT-V03), DOI: 10.5281/zenodo.21308260
 ├── Unified Physical Correspondence (UPC-V04), DOI: 10.5281/zenodo.21545565
