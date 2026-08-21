@@ -18,5 +18,5 @@ theories emerge, including spectral physics, vortex dynamics, operator correspon
 and entanglement structures.
 
 ## Citation
-Moosbrugger, W. (2026). Monistic Continuum Model (MCM). Zenodo. DOI: 10.5281/zenodo.21946555
+Moosbrugger, W. (2026). Monistic Continuum Model (MCM). Zenodo. DOI: 10.5281/zenodo.22030995
 
