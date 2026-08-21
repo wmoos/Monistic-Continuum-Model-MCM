@@ -18,8 +18,10 @@ Unified Ontological and Geometric Framework
 
 ├── Dark Meter (DM-V01), DOI: 10.5281/zenodo.21946555
 
-├      └─ Continuum-Based Spectral Physics (CBSP-V01), DOI: 10.5281/zenodo.21963757
+    ├── Continuum-Based Spectral Physics (CBSP-V01), DOI: 10.5281/zenodo.21963757
+    
 ├── ...
+
 └── ...
 
 ## Purpose
