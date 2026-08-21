@@ -4,13 +4,16 @@ This repository contains the official document series of the Monistic Continuum 
 including its ontological foundations and emergent physical theories.
 
 ## Contents
-- Ontological Foundations of the MCM-V05  
-  Master Document, DOI: 10.5281/zenodo.20717887
-- Planck‑Vortex Theory (PVT‑V03), DOI: 10.5281/zenodo.21308260
-- Unified Physical Correspondence (UPC‑V04), DOI: 10.5281/zenodo.21545565
-- Electron Entanglement (EE‑V04), DOI: 10.5281/zenodo.21818401
-- Dark Matter (DM‑V01), DOI: 10.5281/zenodo.21946555
-  └─ Continuum‑Based Spectral Physics (CBSP‑V01), DOI: 10.5281/zenodo.21963757
+Monistic Continuum Model (MCM-V06)
+Unified Ontological and Geometric Framework
+├── Emergent Theories …
+├── Planck‑Vortex Theory (PVT-V03), DOI: 10.5281/zenodo.21308260
+├── Unified Physical Correspondence (UPC-V04), DOI: 10.5281/zenodo.21545565
+├── Electron Entanglement (EE-V04), DOI: 10.5281/zenodo.21818401
+├── Dark Meter (DM-V01), DOI: 10.5281/zenodo.21946555
+├      └─ Continuum-Based Spectral Physics (CBSP-V01), DOI: 10.5281/zenodo.21963757
+├── ...
+└── ...
 
 ## Purpose
 The MCM provides a unified continuum‑geometric framework from which multiple physical
