@@ -17,22 +17,22 @@ The Monistic Continuum Model proposes that all observable phenomena arise from t
 of a single continuous medium. No fundamental space, time, particles, fields, or forces are assumed.
 Instead:
 
-- **Geometry is fundamental and induced by stress.**
-- **Physical space emerges only through stable matter defects.**
-- **Rotational and stress‑driven structures generate effective physical behaviour.**
-- **Quantized modes correspond to discrete geometric stability states.**
+- Geometry is fundamental and induced by stress.
+- Physical space emerges only through stable matter defects.
+- Rotational and stress‑driven structures generate effective physical behaviour.
+- Quantized modes correspond to discrete geometric stability states.
+- All macroscopic and microscopic phenomena arise from geometric and rotational structures of the medium.
 
-The Master Document formalizes the medium through the state map:
+The Master Document formalizes the medium through a set of dimensionless geometric state variables
+representing density, motion, stress, and update behaviour.
 
+---
 
+## Role within the MCM Framework
 
-\[
-C(x,\lambda) = \big(\rho(x,\lambda),\, v_i(x,\lambda),\, \sigma_{ij}(x,\lambda),\, \tau(x,\lambda)\big),
-\]
+MCM_Master_V06_EN defines the conceptual and structural foundation for all emergent theories
+within the MCM series:
 
-
-
-representing density, geometric motion, stress, and update rate.
 
 ---
 
