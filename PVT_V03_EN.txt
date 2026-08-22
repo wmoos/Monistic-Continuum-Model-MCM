@@ -1,0 +1,8 @@
+Planck‑Vortex Theory (PVT‑V03) is a core component of the Monistic Continuum Model (MCM) and provides the geometric foundation for understanding matter formation at the smallest stable scales of the continuum. The theory describes how localized rotational–stress configurations of the medium form stable topological defects whose geometric properties correspond to the behaviour of elementary particles.
+
+PVT interprets the “Planck scale” not as a physical limit, but as the smallest stable geometric configuration that can arise within the continuum. These vortex‑based defects generate effective mass, charge‑like behaviour, and quantized stability modes through their internal rotational structure. Their induced geometry stabilizes local spatial domains, making them the fundamental seeds of emergent physical space.
+
+Version V03 refines the geometric operators, stability criteria, and stress‑rotation coupling mechanisms that govern vortex formation. It also clarifies the correspondence between vortex modes and observable particle‑like behaviour, forming the conceptual bridge between continuum geometry and effective quantum phenomena.
+
+PVT‑V03 is part of the expanding MCM series and is permanently archived on Zenodo:
+DOI: 10.5281/zenodo.21308260
