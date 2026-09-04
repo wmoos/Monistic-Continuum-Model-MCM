@@ -2,7 +2,7 @@
 ### *Emergent Geometry of a Single Medium*
 
 **Author:** Walter Moosbrugger  
-**Version:** V07  
+**Version:** V04  
 **Status:** Consolidated  
 **Date:** 2026  
 
