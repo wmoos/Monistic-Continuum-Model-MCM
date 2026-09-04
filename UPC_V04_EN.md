@@ -1,4 +1,8 @@
 # Unified Physical Correspondence (UPC‑V04)
+### *Structural Correspondence Between MCM Vortices, Quantum Mechanics, and General Relativity*  
+### Archived Version 04: https://doi.org/10.5281/zenodo.21545565
+
+# Overview
 
 **Unified Physical Correspondence (UPC‑V04)** is a core theoretical module within the *Monistic Continuum Model (MCM)*.  
 It establishes the correspondence rules that link geometric structures of the continuum to effective
