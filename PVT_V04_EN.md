@@ -1,10 +1,3 @@
-Alles klar, Zeit — ich mache dir aus deinem Text eine **perfekt strukturierte, GitHub‑taugliche `README.md`**, sauber formatiert, klar gegliedert, ohne LaTeX‑Reste, ohne unnötige Markdown‑Spielereien.  
-Der offene Browser‑Tab ist irrelevant und wird korrekt ignoriert.
-
-Hier ist dein fertiges **README.md**:
-
----
-
 # Planck–Vortex Theory (PVT)  
 ### *Emergent Geometry of a Single Medium*  
 ### Version 04 — Monistic Continuum Model (MCM)
@@ -39,11 +32,3 @@ This results in greater structural clarity, mathematical precision, and conceptu
 
 Version 04 constitutes the **most complete and coherent presentation** of the PVT within the MCM series to date.  
 It serves as the **reference document** for all future developments and extensions of the theory.
-
----
-
-Wenn du möchtest, kann ich dir zusätzlich:
-
-- eine **zweisprachige DE/EN‑Version**,  
-- eine **komplette README.md für das gesamte MCM‑Repository**,  
-- oder eine **CHANGELOG.md für alle Versionen (V01–V04)** erstellen.
