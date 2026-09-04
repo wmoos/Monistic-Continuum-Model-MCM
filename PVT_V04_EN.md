@@ -3,7 +3,7 @@
 
 **Author:** Walter Moosbrugger  
 **Version:** V04  
-**Status:** Consolidated  
+**Status:** latest  
 **Date:** 2026  
 
 ### Right‑click on Archived V04: https://zenodo.org/records/22128163 or https://zenodo.org/records/22128163
