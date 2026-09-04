@@ -1,4 +1,8 @@
-# Planck‑Vortex Theory (PVT‑V03)
+# Planck–Vortex Theory (PVT)  
+### *Based on Vortex Geometry*  
+### Archived Version 03: https://doi.org/10.5281/zenodo.21308260
+
+# Overview
 
 **Planck‑Vortex Theory (PVT‑V03)** is a core component of the *Monistic Continuum Model (MCM)*.  
 It describes how stable matter arises from rotational–stress configurations within a continuous,
