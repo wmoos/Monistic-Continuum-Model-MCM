@@ -1,6 +1,8 @@
 # Planck–Vortex Theory (PVT)  
 ### *Based on Vortex Geometry*  
-### Right‑click on Archived V03: https://doi.org/10.5281/zenodo.21308260
+### Right‑click on Archived V03: 
+### https://doi.org/10.5281/zenodo.21308260
+### https://zenodo.org/records/22297941
 
 # Overview
 
