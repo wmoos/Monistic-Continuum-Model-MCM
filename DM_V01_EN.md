@@ -7,6 +7,7 @@
 **Date:** 2026  
 
 ### Right‑click on Archived V01: https://doi.org/10.5281/zenodo.21946555 or https://zenodo.org/records/21946555
+## **Overview**
 
 **Dark Meter (DM‑V01)** is a specialized theoretical module within the *Monistic Continuum Model (MCM)*.
 It provides the geometric interpretation of large‑scale continuum behaviour that manifests as
