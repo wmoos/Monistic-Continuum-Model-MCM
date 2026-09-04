@@ -1,5 +1,10 @@
 # Electron Entanglement (EE‑V04)
 
+**Author:** Walter Moosbrugger  
+**Version:** V07  
+**Status:** latest  
+**Date:** 2026  
+
 **Electron Entanglement (EE‑V04)** is a specialized theoretical module within the *Monistic Continuum Model (MCM)*.  
 It describes how electron‑like behaviour emerges from rotational–stress structures of the continuum and how stable
 topological defects can exhibit correlated geometric states that correspond to entanglement phenomena.
