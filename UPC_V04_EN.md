@@ -1,6 +1,6 @@
 # Unified Physical Correspondence (UPC)
 ### *Structural Correspondence Between MCM Vortices, Quantum Mechanics, and General Relativity*  
-### Right‑click on Archived V04: https://doi.org/10.5281/zenodo.21545565
+### Right‑click on Archived V04: https://doi.org/10.5281/zenodo.21545565 or https://zenodo.org/records/21545565
 
 # Overview
 
