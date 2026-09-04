@@ -1,4 +1,13 @@
 # Continuum‑Based Spectral Physics (CBSP‑V01)
+**A Continuum–Geometric Interpretation**
+
+**Author:** Walter Moosbrugger  
+**Version:** V01  
+**Status:** latest  
+**Date:** 2026  
+
+### Right‑click on Archived V01: https://doi.org/10.5281/zenodo.21946555 or https://zenodo.org/records/21946555
+## **Overview**
 
 **Continuum‑Based Spectral Physics (CBSP‑V01)** is a specialized module within the *Monistic Continuum Model (MCM)*.
 It develops the spectral interpretation of geometric and stress‑driven structures in the continuum and explains how
