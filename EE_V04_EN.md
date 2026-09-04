@@ -6,7 +6,7 @@
 **Status:** latest  
 **Date:** 2026  
 
-### Right‑click on Archived V04: https://zenodo.org/records/21818401 or https://10.5281/zenodo.21818401
+### Right‑click on Archived V04: https://zenodo.org/records/21818401 or https://zenodo.org/records/21818401
 ## **Overview**
 
 **Electron Entanglement (EE‑V04)** is a specialized theoretical module within the *Monistic Continuum Model (MCM)*.  
