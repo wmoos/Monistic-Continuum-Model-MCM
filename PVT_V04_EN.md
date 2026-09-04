@@ -1,6 +1,8 @@
 # Planck–Vortex Theory (PVT)  
 ### *Emergent Geometry of a Single Medium*  
-### The archived Version 04 is permanently available at: https://doi.org/10.5281/zenodo.22297941
+### Archived Version 04: https://doi.org/10.5281/zenodo.22297941
+
+#Overview
 
 Version 04 of the **Planck–Vortex Theory (PVT)** represents a substantial advancement over Version 03.  
 While Version 03 established the foundational geometric structure of the medium and the role of bound vortex spaces, Version 04 expands this foundation through several major improvements:
