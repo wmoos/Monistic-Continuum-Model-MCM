@@ -1,5 +1,5 @@
 # Continuum‑Based Spectral Physics (CBSP)
-**A Continuum–Geometric Interpretation**
+**Spectral Signatures of Vortex Dynamics and Residual Stress in the Continuum**
 
 **Author:** Walter Moosbrugger  
 **Version:** V01  
