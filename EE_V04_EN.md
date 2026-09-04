@@ -1,9 +1,13 @@
-# Electron Entanglement (EE‑V04)
+# Electron Entanglement (EE)
+**Spectral and Topological Structures**
 
 **Author:** Walter Moosbrugger  
-**Version:** V07  
+**Version:** V04  
 **Status:** latest  
 **Date:** 2026  
+
+### Right‑click on Archived V07: https://zenodo.org/records/21818401 or https://10.5281/zenodo.21818401
+## **Overview**
 
 **Electron Entanglement (EE‑V04)** is a specialized theoretical module within the *Monistic Continuum Model (MCM)*.  
 It describes how electron‑like behaviour emerges from rotational–stress structures of the continuum and how stable
