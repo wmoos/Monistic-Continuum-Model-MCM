@@ -1,5 +1,11 @@
 # Planck–Vortex Theory (PVT)  
-### *Emergent Geometry of a Single Medium*  
+### *Emergent Geometry of a Single Medium*
+
+Author: Walter Moosbrugger
+Version: V07
+Status: Consolidated Document
+Date: 2026
+
 ### Archived Version 04: https://doi.org/10.5281/zenodo.22297941
 
 # Overview
