@@ -1,4 +1,4 @@
-# Monistic Continuum Model (MCM) — Master Document V07  
+# Monistic Continuum Model (MCM)
 **Unified Geometric Ontology**
 
 **Author:** Walter Moosbrugger  
@@ -6,7 +6,7 @@
 **Status:** Consolidated Master Document  
 **Date:** 2026  
 
----
+### Archived Version 07: https://doi.org/10.5281/zenodo.22128163
 
 ## **Overview**
 
