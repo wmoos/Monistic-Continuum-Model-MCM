@@ -6,7 +6,7 @@
 **Status:** latest  
 **Date:** 2026  
 
-### Right‑click on Archived V07: https://zenodo.org/records/22128163 or https://zenodo.org/records/22128163
+### Right‑click on Archived V07: https://doi.org/10.5281/zenodo.22128163 or https://zenodo.org/records/22128163
 ## **Overview**
 
 Version V07 of the *Monistic Continuum Model (MCM)* represents the further developed and consolidated foundation of a unified ontological and geometric framework in which all observable phenomena arise from the internal dynamics of a continuous medium. This master document defines the central structure, terminology, and theoretical orientation of the entire MCM series and forms the stable core for all subsequent sub‑theories built upon it.
