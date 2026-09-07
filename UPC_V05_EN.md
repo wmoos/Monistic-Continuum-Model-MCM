@@ -1,6 +1,7 @@
 # Unified Physical Correspondence (VPK) – Version 05 (EN)
 
-**DOI: https://doi.org/10.5281/zenodo.22542613 
+**DOI:** https://doi.org/10.5281/zenodo.22542613
+
 **Version:** 05 – 6 November 2026  
 **Author:** Walter Moosbrugger  
 **License:** CC BY 4.0
