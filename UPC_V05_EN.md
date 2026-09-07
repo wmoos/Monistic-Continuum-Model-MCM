@@ -1,6 +1,6 @@
-# Unified Physical Correspondence (VPK) – Version 05 (EN)
+# Unified Physical Correspondence (UPC) – Version 05 (EN)
 
-**DOI:** https://doi.org/10.5281/zenodo.22543266  
+**DOI:** https://doi.org/10.5281/zenodo.22542613  
 **Version:** 05 – 6 November 2026  
 **Author:** Walter Moosbrugger  
 **License:** CC BY 4.0
@@ -9,7 +9,7 @@
 
 ## Abstract
 
-The Unified Physical Correspondence (VPK) is the operator-based projection of the Monistic Continuum Model (MCM) onto quantum mechanics (QM) and general relativity (GR).  
+The Unified Physical Correspondence (UPC) is the operator-based projection of the Monistic Continuum Model (MCM) onto quantum mechanics (QM) and general relativity (GR).  
 It introduces a discrete vortex basis and two functorial projections:  
 - a spectral projection for quantum behavior,  
 - and a topological projection for relativistic behavior.
@@ -20,21 +20,21 @@ This unified structure ensures mathematical closure and ontological consistency.
 Quantum nonlocality and relativistic locality are interpreted as complementary manifestations of the same underlying continuum architecture.  
 The theory establishes axiomatic completeness and internal consistency through a stability condition that guarantees invariant behavior of stable vortex configurations.
 
-VPK provides a unified operator framework for transitions between discrete and continuous physical regimes.
+UPC provides a unified operator framework for transitions between discrete and continuous physical regimes.
 
 ---
 
 ## Citation
 
-Moosbrugger, W. (2026). *Unified Physical Correspondence (VPK), Version 05.*  
-Zenodo. https://doi.org/10.5281/zenodo.22543266
+Moosbrugger, W. (2026). *Unified Physical Correspondence (UPC), Version 05.*  
+Zenodo. https://doi.org/10.5281/zenodo.22542613
 
 ---
 
 ## Repository Structure
 
 - **docs/**  
-  Contains the full VPK_V05_EN preprint and related MCM ontology documents.
+  Contains the full UPC_V05_EN preprint and related MCM ontology documents.
 
 - **src/**  
   Prototype implementations of the operator algebra and example vortex configurations.
@@ -76,7 +76,7 @@ The intermediate regime appears when both projections act simultaneously, enabli
 
 ## Relation to MCM Ontology
 
-VPK is fully compatible with the MCM Master Ontology (Version 07).  
+UPC is fully compatible with the MCM Master Ontology (Version 07).  
 It provides the operator-level realization of the monistic geometric medium and its emergent structures.
 
 ---
