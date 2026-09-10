@@ -42,11 +42,10 @@ Researchers working with the MCM or developing related frameworks will find here
 
 ---
 
-## **Hierarchy of MCM Sub‑Theories (DOI‑Indexed)**
+## **Hierarchy of MCM Emergent Theories (DOI‑Indexed)**
 
 The most recent and relevant developments of the MCM are documented across several DOI‑indexed sub‑theories that complement and extend Version V07.
 
-- Emergent Theories …
 - Planck‑Vortex Theory (PVT‑V04), DOI: 10.5281/zenodo.22297941
 - Unified Physical Correspondence (UPC‑V05), DOI: 10.5281/zenodo.22542613
 - Dark Meter (DM‑V02), DOI: 10.5281/zenodo.22678381
