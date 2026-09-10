@@ -46,8 +46,6 @@ Researchers working with the MCM or developing related frameworks will find here
 
 The most recent and relevant developments of the MCM are documented across several DOI‑indexed sub‑theories that complement and extend Version V07.
 
-## **Monistic Continuum Model (MCM‑V07)**  
-## **Unified Geometric Ontology**
 - Emergent Theories …
 - Planck‑Vortex Theory (PVT‑V04), DOI: 10.5281/zenodo.22297941
 - Unified Physical Correspondence (UPC‑V05), DOI: 10.5281/zenodo.22542613
