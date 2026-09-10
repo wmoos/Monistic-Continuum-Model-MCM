@@ -9,12 +9,6 @@
 
 ---
 
-### Archived V01  
-Right‑click on:  
-https://doi.org/10.5281/zenodo.21946555  
-or  
-https://zenodo.org/records/21946555
-
 ### Current V02  
 **DOI:** https://doi.org/10.5281/zenodo.22678381
 
