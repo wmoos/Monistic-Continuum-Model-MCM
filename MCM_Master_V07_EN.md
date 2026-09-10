@@ -49,9 +49,7 @@ The most recent and relevant developments of the MCM are documented across sever
 Monistic Continuum Model (MCM‑V07)
 Unified Geometric Ontology
 ├── Emergent Theories …
-
 ├── Planck‑Vortex Theory (PVT‑V04), DOI: 10.5281/zenodo.22297941
-
 ├── Unified Physical Correspondence (UPC‑V05), DOI: 10.5281/zenodo.22542613
 ├── Dark Meter (DM‑V02), DOI: 10.5281/zenodo.22678381
 ├── Electron Entanglement (EE‑V04), DOI: 10.5281/zenodo.21818401  (update pending)
