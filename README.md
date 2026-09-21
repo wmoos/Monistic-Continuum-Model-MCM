@@ -46,6 +46,7 @@ Researchers working with the MCM or developing related frameworks will find here
 
 The most recent and relevant developments of the MCM are documented across several DOI‑indexed sub‑theories that complement and extend Version V07.
 
+- Continuum Coupling 'Theory' (CCT), DOI: https://doi.org/10.5281/zenodo.22876646
 - Planck‑Vortex Theory (PVT‑V04), DOI: https://doi.org/10.5281/zenodo.22297941
 - Unified Physical Correspondence (UPC‑V05), DOI: https://doi.org/10.5281/zenodo.22542613
 - Dark Meter (DM‑V02), DOI: https://doi.org/10.5281/zenodo.22678381
