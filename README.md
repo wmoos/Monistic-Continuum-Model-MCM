@@ -1,10 +1,15 @@
 Monistic Continuum Model (MCM)
+
 Unified Geometric Ontology — Master Document V07 (EN)
 
 Author: Walter Moosbrugger
+
 Version: V07
+
 Status: latest
+
 Date: 2026
+
 
 Archived Version (EN): https://doi.org/10.5281/zenodo.22128163
 
