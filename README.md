@@ -1,55 +1,13 @@
-# Monistic Continuum Model (MCM)
-**Unified Geometric Ontology**
+Version 03 of Dark Matter (DM): An MCM Interpretation of Dark Matter presents a significantly expanded and refined treatment of the concepts introduced in DM_V02_EN. While Version 02 established the basic interpretation of dark matter as residual vortices of the universal medium, the present version deepens this framework in several essential ways.
 
-**Author:** Walter Moosbrugger  
-**Version:** V07  
-**Status:** latest  
-**Date:** 2026  
+DM_V03_EN clarifies the geometric nature of residual vortices and formalizes their role as tension sinks within the continuum. The description of vortex stability has been extended, including a more precise classification of vortex types and a clearer distinction between radiative, material, and residual vortex dynamics. The interaction between residual vortices and stable material vortices is now described with greater detail, providing a more coherent explanation of how tension anomalies influence cosmic structures.
 
-### Right‑click on Archived V07: https://doi.org/10.5281/zenodo.22128163
-## **Overview**
+This version also introduces a systematic comparison between the MCM interpretation and leading physical dark‑matter models such as CDM, SIDM, dark radiation, and neutrino‑like relics. These comparisons demonstrate that the observational signatures attributed to dark matter in physics—gravitational lensing, flat rotation curves, halo stability, and large‑scale structure formation—arise naturally from the continuum mechanics of residual vortices, without requiring new particles or additional fields.
 
-Version V07 of the *Monistic Continuum Model (MCM)* represents the further developed and consolidated foundation of a unified ontological and geometric framework in which all observable phenomena arise from the internal dynamics of a continuous medium. This master document defines the central structure, terminology, and theoretical orientation of the entire MCM series and forms the stable core for all subsequent sub‑theories built upon it.
+Furthermore, DM_V03_EN expands the cosmological implications of residual vortex dynamics. The document now includes a more detailed account of how tension sinks shape galactic halos, influence photon‑vortex trajectories, and contribute to the formation of cosmic filaments and voids. The statistical stability of the residual‑vortex background field is described more rigorously, showing how continuous vortex generation maintains a persistent dark‑matter‑like effect over cosmic timescales.
 
----
+In summary, DM_V03_EN supersedes DM_V02_EN by offering a more complete, consistent, and geometrically unified interpretation of dark matter within the Monistic Continuum Model. It strengthens the ontological foundation of the theory and integrates all major cosmological observations into a single continuum‑based framework.
 
-## **Advancements from Version V06**
-
-Compared to Version V06, Version V07:
-
-- deepens the monistic ontology,  
-- refines the geometric interpretation of internal quantities,  
-- clarifies the roles of **stress**, **rotation**, and **curvature** as emergent structures,  
-- strengthens the conceptual basis for **bound geometry**, **quantization**, and **matter‑like stability**,  
-- unifies the formal presentation of operators,  
-- specifies internal coordinates with greater precision,  
-- sharpens the separation between ontological assumptions and derived structures.
-
-These refinements establish a consistent foundation for analytical development, numerical simulation, and systematic extension of the model.
-
----
-
-## **Purpose of This Document**
-
-This document serves as the **authoritative reference** for all MCM‑based work.  
-Its publication on Zenodo ensures:
-
-- permanent archiving,  
-- transparent versioning,  
-- citable DOI references.
-
-Researchers working with the MCM or developing related frameworks will find here the definitive presentation of the ontological and geometric principles upon which all subsequent contributions are built.
-
----
-
-## **Hierarchy of MCM Emergent Theories (DOI‑Indexed)**
-
-The most recent and relevant developments of the MCM are documented across several DOI‑indexed sub‑theories that complement and extend Version V07.
-
-- Continuum Coupling 'Theory' (CCT), DOI: https://doi.org/10.5281/zenodo.22876646
-- Planck‑Vortex Theory (PVT‑V04), DOI: https://doi.org/10.5281/zenodo.22297941
-- Unified Physical Correspondence (UPC‑V05), DOI: https://doi.org/10.5281/zenodo.22542613
-- Dark Meter (DM‑V02), DOI: https://doi.org/10.5281/zenodo.22678381
-- Electron Entanglement (EE‑V04), DOI: https://doi.org/10.5281/zenodo.21818401  (update pending)
+MCM – Master Document (10.5281/zenodo.22128163) 
 
 
