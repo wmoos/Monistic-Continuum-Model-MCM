@@ -25,5 +25,3 @@ Unified Geometric Ontology
 Version V07 thus constitutes the consolidated and authoritative foundation of the MCM series and forms the starting point for all future extensions within the monistic geometric framework.
 
  Monistic Continuum Model (MCM): V07 (DE) (10.5281/zenodo.22130345)
-
-
