@@ -6,21 +6,21 @@ This document serves as the authoritative reference for all MCM‑based work. It
 
 The most recent and relevant developments of the MCM are documented across several DOI‑indexed sub‑theories that complement and extend Version V07. Their current hierarchical structure is as follows:
 
-Monistic Continuum Model (MCM): V07 (EN)
-Unified Geometric Ontology
-│
-├── Continuum Coupling 'Theory' (CCT) , DOI: 10.5281/zenodo.22876646
-│      The CCT describes how the geometric ontology of the MCM gives rise to a mathematical operator ontology
-│      that defines the physical attachability of the MCM.
-│      → Invitation to Contribute
-│      Open structural framework for mathematical, geometric and operator-based development
-│
-├── Emergent Theories …
-├── Planck‑Vortex Theory (PVT-V04), DOI: 10.5281/zenodo.22297941
-├── Unified Physical Correspondence (UPC-V05), DOI: 10.5281/zenodo.22542613
-├── Dark Matter (DM-V03), DOI: 10.5281/zenodo.23096493 new
-├── Electron Entanglement (EE-V05), DOI: 10.5281/zenodo.22911345
-└── ...
+-Monistic Continuum Model (MCM): V07 (EN)
+-Unified Geometric Ontology
+-│
+-├── Continuum Coupling 'Theory' (CCT) , DOI: 10.5281/zenodo.22876646
+-│      The CCT describes how the geometric ontology of the MCM gives rise to a mathematical operator ontology
+-│      that defines the physical attachability of the MCM.
+-│      → Invitation to Contribute
+-│      Open structural framework for mathematical, geometric and operator-based development
+-│
+-├── Emergent Theories …
+-├── Planck‑Vortex Theory (PVT-V04), DOI: 10.5281/zenodo.22297941
+-├── Unified Physical Correspondence (UPC-V05), DOI: 10.5281/zenodo.22542613
+-├── Dark Matter (DM-V03), DOI: 10.5281/zenodo.23096493 new
+-├── Electron Entanglement (EE-V05), DOI: 10.5281/zenodo.22911345
+-└── ...
 
 Version V07 thus constitutes the consolidated and authoritative foundation of the MCM series and forms the starting point for all future extensions within the monistic geometric framework.
 
