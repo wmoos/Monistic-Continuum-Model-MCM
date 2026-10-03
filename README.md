@@ -16,10 +16,11 @@ The most recent and relevant developments of the MCM are documented across sever
 -   Open structural framework for mathematical, geometric and operator-based development
 - 
 -  Emergent Theories …
--  Planck‑Vortex Theory (PVT-V04), DOI: https://doi.org/10.5281/10.5281/zenodo.22297941
--  Unified Physical Correspondence (UPC-V05), DOI: https://doi.org/10.5281/10.5281/zenodo.22542613
--  Dark Matter (DM-V03), DOI: https://doi.org/10.5281/10.5281/zenodo.23096493 new
--  Electron Entanglement (EE-V05), DOI: https://doi.org/10.5281/10.5281/zenodo.22911345
+-  Emergent Theories …
+-  Planck‑Vortex Theory (PVT-V04), DOI: https://doi.org/10.5281/zenodo.22297941
+-  Unified Physical Correspondence (UPC-V05), DOI: https://doi.org/10.5281/zenodo.22542613
+-  Dark Matter (DM-V03), DOI: https://doi.org/10.5281/zenodo.23096493 new
+- Electron Entanglement (EE-V05), DOI: https://doi.org/10.5281/zenodo.22911345
 -  ...
 
 Version V07 thus constitutes the consolidated and authoritative foundation of the MCM series and forms the starting point for all future extensions within the monistic geometric framework.
