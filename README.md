@@ -9,7 +9,7 @@ The most recent and relevant developments of the MCM are documented across sever
 - Monistic Continuum Model (MCM): V07 (EN)
 - Unified Geometric Ontology
 - 
--   Continuum Coupling 'Theory' (CCT) , DOI: https://doi.org/10.5281/10.5281/zenodo.22876646
+-   Continuum Coupling 'Theory' (CCT) , DOI: https://doi.org/10.5281/zenodo.22876646
 -   The CCT describes how the geometric ontology of the MCM gives rise to a mathematical operator ontology
 -   that defines the physical attachability of the MCM.
 -   → Invitation to Contribute
