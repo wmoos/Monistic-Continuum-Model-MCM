@@ -25,4 +25,4 @@ The most recent and relevant developments of the MCM are documented across sever
 
 Version V07 thus constitutes the consolidated and authoritative foundation of the MCM series and forms the starting point for all future extensions within the monistic geometric framework.
 
-Monistic Continuum Model (MCM): V07 (DE) (https://doi.org/10.5281/zenodo.22130345)
+Monistic Continuum Model (MCM): V07 (DE) (https://doi.org/10.5281/zenodo.22128163)
