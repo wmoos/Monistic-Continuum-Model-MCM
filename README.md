@@ -4,11 +4,11 @@ This preface introduces a refined hierarchical organization of the MCM, clarifyi
 
 The updated structure is:
 
-- **Monistic Continuum Model (MCM): V07 (EN)** DOI: 10.5281/zenodo.22128163
-  - **Planck‑Wirbel Theory (PVT): V05 (EN)** DOI: 10.5281/zenodo.22297941
-    - **Unified Physical Correspondence (UPC): V05 (EN)** DOI: 10.5281/zenodo.22542613
-    - **Dark Matter (DM): V03 (EN)** DOI: 10.5281/zenodo.23096493
-    - **Electron Entanglement (EE): V05 (EN)** DOI: 10.5281/zenodo.22911345
+- **Monistic Continuum Model (MCM): V07 (EN)** DOI: https://doi.org/10.5281/zenodo.22128163
+  - **Planck‑Wirbel Theory (PVT): V05 (EN)** DOI: https://doi.org/10.5281/zenodo.22297941
+    - **Unified Physical Correspondence (UPC): V05 (EN)** DOI: https://doi.org/10.5281/zenodo.22542613
+    - **Dark Matter (DM): V03 (EN)** DOI: https://doi.org/10.5281/zenodo.23096493
+    - **Electron Entanglement (EE): V05 (EN)** DOI: https://doi.org/10.5281/zenodo.22911345
     - **Black Holes (BL): V01 (EN)** ToDo
     - …
 
@@ -16,4 +16,4 @@ This hierarchical form emphasizes that PVT serves as the ontological generator f
 
 Version V07 is intended as a reference for researchers working on theoretical physics, continuum models, operator‑based frameworks, and unified ontological approaches. It provides the conceptual and mathematical foundation required for the development, comparison, and extension of all subsequent MCM modules.
 
-→ Monistic Continuum Model (MCM): V07 (DE) (10.5281/zenodo.22130345)
+→ Monistic Continuum Model (MCM): V07 (DE) (https://doi.org/10.5281/zenodo.22130345)
