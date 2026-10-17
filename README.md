@@ -4,13 +4,13 @@ This preface introduces a refined hierarchical organization of the MCM, clarifyi
 
 The updated structure is:
 
-Monistic Continuum Model (MCM): V07 (EN)
-└── Planck‑Wirbel Theory (PVT): V05 (EN), DOI: 10.5281/zenodo.23434159 neu
-        ├── Unified Physical Correspondence (UPC): V05 (EN), DOI: 10.5281/zenodo.22542613
-        ├── Dark Matter (DM): V03 (EN), DOI: 10.5281/zenodo.23096493 
-        ├── Electron Entanglement (EE); V05 (EN), DOI: 10.5281/zenodo.22911345
-        ├── Schwarze Löcher (SL): V01 (EN), ToDo
-        └── …
+- **Monistic Continuum Model (MCM): V07 (EN)** DOI: 10.5281/zenodo.22128163
+  - **Planck‑Wirbel Theory (PVT): V05 (EN)** DOI: 10.5281/zenodo.22297941
+    - **Unified Physical Correspondence (UPC): V05 (EN)** DOI: 10.5281/zenodo.22542613
+    - **Dark Matter (DM): V03 (EN)** DOI: 10.5281/zenodo.23096493
+    - **Electron Entanglement (EE): V05 (EN)** DOI: 10.5281/zenodo.22911345
+    - **Black Holes (BL): V01 (EN)** ToDo
+    - …
 
 This hierarchical form emphasizes that PVT serves as the ontological generator for all emergent physical theories within the MCM framework. Each module represents a projection of the underlying continuum dynamics into a specific physical domain, forming a unified and internally consistent theoretical system.
 
