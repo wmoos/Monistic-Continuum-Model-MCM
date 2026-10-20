@@ -6,6 +6,7 @@ The updated structure is:
 
 - **Monistic Continuum Model (MCM): V07 (EN)** DOI: https://doi.org/10.5281/zenodo.22128163
   - **Planck‑Wirbel Theory (PVT): V05 (EN)** DOI: https://doi.org/10.5281/zenodo.23434159
+    - **PVT_EPS: V01 (EN), DOI: https://doi.org/10.5281/zenodo.23495063 ###neu
     - **Unified Physical Correspondence (UPC): V05 (EN)** DOI: https://doi.org/10.5281/zenodo.22542613
     - **Dark Matter (DM): V03 (EN)** DOI: https://doi.org/10.5281/zenodo.23096493
     - **Electron Entanglement (EE): V05 (EN)** DOI: https://doi.org/10.5281/zenodo.22911345
