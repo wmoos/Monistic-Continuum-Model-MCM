@@ -2,8 +2,13 @@
 
 **A Monistic Continuum Ontology of Space, Matter and Propagation**
 
-Author: **Walter Moosbrugger**  
-DOI: https://doi.org/10.5281/zenodo.22130345
+## Author
+
+Walter Moosbrugger
+
+ORCID: https://orcid.org/0009-0003-4170-5162
+
+GitHub: https://github.com/wmoos
 
 ---
 
