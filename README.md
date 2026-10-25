@@ -1,3 +1,5 @@
+Correction notice: A duplicated section present in the previous version has been removed. No scientific content has been changed.
+
 # Monistic Continuum Model (MCM): V08 (EN)
 
 **A Monistic Continuum Ontology of Space, Matter and Propagation**
