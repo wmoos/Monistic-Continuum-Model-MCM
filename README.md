@@ -76,37 +76,23 @@ D
 ## Project Structure
 
 ```text
-Monistic Continuum Model (MCM): V08 (EN)
-│
-├── Planck–Vortex Theory (PVT): V05 (EN)
-│   DOI: 10.5281/zenodo.23434159
-│
-├── Planck–Vortex Theory (PVT): V06 (EN)
-│   DOI: ToDo
-│
-│   ├── PVT_EPS: V01 (EN)
-│   │   DOI: 10.5281/zenodo.23495063
-│   │
-│   ├── Unified Physical Correspondence (UPC): V05 (EN)
-│   │   DOI: 10.5281/zenodo.22542613
-│   │
-│   ├── Dark Matter (DM): V03 (EN)
-│   │   DOI: 10.5281/zenodo.23096493
-│   │
-│   ├── Electron Entanglement (EE): V05 (EN)
-│   │   DOI: 10.5281/zenodo.22911345
-│   │
-│   ├── Black Holes (BH): V01 (EN)
-│   │   DOI: ToDo
-│   │
-│   └── ...
-│
-└── Monistic Continuum Model (MCM): V07 (DE)
-    DOI: 10.5281/zenodo.22130345
+The updated structure is:
+
+Monistic Continuum Model (MCM): V08 (EN)  ✅ Completed
+└── Planck–Vortex Theory (PVT): V06 (EN)  🔄 In Development
+    ├── Continuum Dynamics             ✅ Concept Defined
+    ├── Vortex Quantum Theory         ✅ Concept Defined
+    ├── Stable Vortex Theory              ✅ Concept Defined
+    ├── Emergent Structure Theory    ✅ Concept Defined
+    ├── Unified Physical Framework   ✅ Concept Defined
+    └── Applied PVT Series                ⏳ Future Development
+           ├── PVT_EPS
+           ├── Unified Physical Correspondence (UPC)
+           ├── Dark Matter (DM)
+           ├── Electron Entanglement (EE)
+           ├── Black Holes (BH)
+           └ ── Future Applications
 ```
-
----
-
 ## Central Idea
 
 The central statement of MCM V08 can be summarized as follows:
