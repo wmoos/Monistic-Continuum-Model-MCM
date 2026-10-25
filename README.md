@@ -80,12 +80,12 @@ The updated structure is:
 
 Monistic Continuum Model (MCM): V08 (EN)  ✅ Completed
 └── Planck–Vortex Theory (PVT): V06 (EN)  🔄 In Development
-    ├── Continuum Dynamics             ✅ Concept Defined
-    ├── Vortex Quantum Theory         ✅ Concept Defined
-    ├── Stable Vortex Theory              ✅ Concept Defined
+    ├── Continuum Dynamics           ✅ Concept Defined
+    ├── Vortex Quantum Theory        ✅ Concept Defined
+    ├── Stable Vortex Theory         ✅ Concept Defined
     ├── Emergent Structure Theory    ✅ Concept Defined
     ├── Unified Physical Framework   ✅ Concept Defined
-    └── Applied PVT Series                ⏳ Future Development
+    └── Applied PVT Series           ⏳ Future Development
            ├── PVT_EPS
            ├── Unified Physical Correspondence (UPC)
            ├── Dark Matter (DM)
