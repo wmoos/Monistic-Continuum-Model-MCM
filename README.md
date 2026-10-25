@@ -140,7 +140,7 @@ Licensed under the **Creative Commons Attribution 4.0 International License (CC 
 **Moosbrugger, W. (2026).**  
 *Monistic Continuum Model (MCM): V08 (EN) – A Monistic Continuum Ontology of Space, Matter and Propagation.*  
 Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.22130345
+DOI: https://doi.org/10.5281/zenodo.23636164
 
 ## Keywords
 continuum-model, monistic-continuum-model, wmoos, Moosbrugger Walter, Wels, AT, Physik, Kosmos, Universum, Ontologie, Theorie, Preprints, continuum-physics, projection-vector-theory, planck-vortex-theory, pvt, mcm, operator-ontology, geometric-ontology, rotational-dynamics, pre-spatial-medium, continuum-rotation, projection-mechanisms, unified-physical-correspondence, dark-matter, electron-entanglement, black-holes, theoretical-physics, mathematical-physics, ontology-framework, continuum-dynamics, Klassische Mechanik, Elektromagnetismus, Thermodynamik, Statistische Mechanik, Spezielle Relativitätstheorie, Allgemeine Relativitätstheorie, Quantenmechanik, Standardmodell der Teilchenphysik, Kosmologie, Stringtheorie, Quantengravitation
