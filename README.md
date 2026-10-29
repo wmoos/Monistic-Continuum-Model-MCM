@@ -1,134 +1,137 @@
-Correction notice: A duplicated section present in the previous version has been removed. No scientific content has been changed.
+# Monistic Continuum Model (MCM)
 
-# Monistic Continuum Model (MCM): V08 (EN)
+## Overview
 
-**A Monistic Continuum Ontology of Space, Matter and Propagation**
+The **Monistic Continuum Model (MCM)** is a research framework based on the premise that reality originates from a single underlying continuum,
 
-## Author
+\[
+D,
+\]
 
-Walter Moosbrugger
+from which all observable structures emerge through organization rather than through independent substances or ontological layers.
 
-ORCID: https://orcid.org/0009-0003-4170-5162
+The current reference version is:
 
-GitHub: https://github.com/wmoos
+- **Monistic Continuum Model (MCM): V09 (EN)** ✅ Completed
 
----
+MCM V09 introduces the concepts of a **global organizational state**,
 
-## Preface
+\[
+\Sigma_G,
+\]
 
-The Monistic Continuum Model (MCM) was developed from a single question:
+and an intrinsic **update rate**,
 
-**How can space, matter, and observable reality emerge from a single underlying continuum?**
+\[
+\tau,
+\]
 
-Version V08 represents the completion of the ontological development phase of the model. It introduces the global organizational state ΣG and establishes a clear distinction between local bound organization and global propagation.
+as fundamental properties of continuum organization.
 
-Within MCM V08, light and matter are not interpreted as fundamentally different substances.
+Unlike conventional approaches, \(\tau\) is not interpreted as physical time. It represents the intrinsic capacity of the continuum to continuously update and reorganize its organizational state.
 
-**Light** is understood as a propagating disturbance of the global organization of the continuum.
-
-**Matter** is understood as a stable bound form of local continuum organization.
-
-Both emerge from the same underlying medium, denoted by **D**.
-
-The purpose of this work is not to provide a complete physical theory, but to establish a coherent and strictly monistic ontological framework from which geometry, space, matter, and propagation may emerge.
-
-All observable structures are interpreted as manifestations of the organization of a single continuum.
-
-MCM V08 therefore serves as the ontological foundation for future mathematical and physical developments, including the Planck–Vortex Theory (PVT).
+The central principle of MCM V09 is that all observable structures arise from the self-consistent organization of a single continuum.
 
 ---
 
-## Core Hierarchy
+## Evolution from MCM V08 to MCM V09
+
+**MCM V08** established the ontology of a single continuum.
+
+**MCM V09** extends this foundation by introducing:
+
+- the global organizational state \(\Sigma_G\),
+- the intrinsic update rate \(\tau\),
+- organizational self-consistency,
+- a formal emergence hierarchy,
+- explicit local-global organizational closure.
+
+The core organizational hierarchy is
+
+\[
+D
+\longrightarrow
+\{\Sigma_G,\tau\}
+\longrightarrow
+V
+\longrightarrow
+L_V
+\longrightarrow
+\mathrm{Space}
+\longrightarrow
+\mathrm{Matter}
+\longrightarrow
+\mathrm{Observable\ Physics}.
+\]
+
+---
+
+## Research Structure
 
 ```text
-D
-→ ΣG
-→ σAB
-→ γAB
-→ RABCD
-→ LAB
-→ V
-→ LV
-→ Space
-→ Matter
-```
-
-Propagation hierarchy:
-
-```text
-D
-→ ΣG
-→ c
-```
-
-Physical correspondence hierarchy:
-
-```text
-D
-→ ΣG
-→ V
-→ Matter
-→ Observable Physics
+Monistic Continuum Model (MCM): V09 (EN)  ✅ Completed
+└── Planck–Vortex Theory (PVT): V06 (DE)  🔄 In Development
+        ├── Continuum Dynamics                     ✅ Concept Defined
+        ├── Vortex Quantum Theory                 ✅ Concept Defined
+        ├── Stable Vortex Theory                  ✅ Concept Defined
+        ├── Emergent Structure Theory             ✅ Concept Defined
+        ├── Unified Physical Framework            ✅ Concept Defined
+        └── Applied PVT Series                    ⏳ Future Development
+               ├── PVT_EPS
+               ├── Unified Physical Correspondence (UPC)
+               ├── Dark Matter (DM)
+               ├── Electron Entanglement (EE)
+               ├── Black Holes (BH)
+               └── Future Applications
 ```
 
 ---
 
-## Project Structure
+## Central Ontological Principle
 
-```text
-The updated structure is:
+Reality consists of a single continuum
 
-Monistic Continuum Model (MCM): V08 (EN)  ✅ Completed
-└── Planck–Vortex Theory (PVT): V06 (EN)  🔄 In Development
-    ├── Continuum Dynamics           ✅ Concept Defined
-    ├── Vortex Quantum Theory        ✅ Concept Defined
-    ├── Stable Vortex Theory         ✅ Concept Defined
-    ├── Emergent Structure Theory    ✅ Concept Defined
-    ├── Unified Physical Framework   ✅ Concept Defined
-    └── Applied PVT Series           ⏳ Future Development
-           ├── PVT_EPS
-           ├── Unified Physical Correspondence (UPC)
-           ├── Dark Matter (DM)
-           ├── Electron Entanglement (EE)
-           ├── Black Holes (BH)
-           └ ── Future Applications
-```
-## Central Idea
+\[
+D.
+\]
 
-The central statement of MCM V08 can be summarized as follows:
+The global organizational state
 
-> Light is a propagating disturbance of global continuum organization.
->
-> Matter is a stable bound form of local continuum organization.
->
-> Both emerge from the same underlying continuum and differ only by their mode of organization.
+\[
+\Sigma_G
+\]
+
+represents the self-consistent organization of the continuum, while
+
+\[
+\tau
+\]
+
+represents its intrinsic updating activity.
+
+Stable vortices, space, matter, and observable physics are interpreted as organizational manifestations of this continuously self-organizing continuum.
 
 ---
 
 ## Status
 
-**MCM V08** represents the completion of the ontological phase of the Monistic Continuum Model.
-
-All stages of the MCM development roadmap (Stages I–IX) have been completed.
-
-Future work focuses on the quantitative development of the framework through the **Planck–Vortex Theory (PVT)** and related research projects.
+| Component | Status |
+|------------|--------|
+| MCM V09 Ontology | ✅ Completed |
+| Organizational Framework | ✅ Completed |
+| Emergence Hierarchy | ✅ Completed |
+| Physical Correspondence | ✅ Conceptual |
+| Planck–Vortex Theory V06 | 🔄 In Development |
+| Applied PVT Programs | ⏳ Planned |
 
 ---
 
 ## License
 
-Copyright (c) 2026 Walter Moosbrugger
+See repository license information.
 
-Licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+## Author
 
----
+**Walter Moosbrugger**
 
-## Citation
-
-**Moosbrugger, W. (2026).**  
-*Monistic Continuum Model (MCM): V08 (EN) – A Monistic Continuum Ontology of Space, Matter and Propagation.*  
-Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.23636164
-
-## Keywords
-continuum-model, monistic-continuum-model, wmoos, Moosbrugger Walter, Wels, AT, Physik, Kosmos, Universum, Ontologie, Theorie, Preprints, continuum-physics, projection-vector-theory, planck-vortex-theory, pvt, mcm, operator-ontology, geometric-ontology, rotational-dynamics, pre-spatial-medium, continuum-rotation, projection-mechanisms, unified-physical-correspondence, dark-matter, electron-entanglement, black-holes, theoretical-physics, mathematical-physics, ontology-framework, continuum-dynamics, Klassische Mechanik, Elektromagnetismus, Thermodynamik, Statistische Mechanik, Spezielle Relativitätstheorie, Allgemeine Relativitätstheorie, Quantenmechanik, Standardmodell der Teilchenphysik, Kosmologie, Stringtheorie, Quantengravitation
+Monistic Continuum Model Research Series
