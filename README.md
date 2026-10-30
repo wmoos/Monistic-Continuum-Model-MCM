@@ -1,24 +1,32 @@
-## Preface
+# Monistic Continuum Model (MCM): V09
 
-The completion of MCM9 established a revised ontological framework in which the continuum **D** constitutes the sole ontological primitive and the global organizational state **ΣG** represents the total self-consistent organization of the continuum.
-
-While MCM9 provides the ontological foundation of a continuously self-organizing and self-updating continuum, it also reveals fundamental unresolved questions concerning the emergence of space, matter, and observable physics.
-
-The **MCM_Roadmap** was created to address these questions. Rather than presenting a completed physical theory, it defines a structured research program derived from the ontology established by MCM9.
-
-Its purpose is to identify the principal open questions, establish methodological guidelines, define success criteria, and organize future research directions.
-
-The roadmap is based on the organizational hierarchy:
-
-```text
-D → ΣG(Gn, QV, V) → Space → Matter → Observable Physics
-```
-
-and serves as a bridge between the completed ontology of MCM9 and the future mathematical and physical development of continuum-based organizational physics.
+### A Monistic Continuum Ontology of a Self-Organizing and Continuously Self-Updating Continuum
 
 ---
 
-# MCM Research Program
+## Preface
+
+The Monistic Continuum Model (MCM V09) represents a refinement and extension of the ontological framework established by MCM V08.
+
+Both versions are based on the principle that reality consists of a single continuum **D** from which all observable structures emerge. However, MCM V09 introduces two additional organizational concepts: the global organizational state **ΣG** and the intrinsic update rate **τ**.
+
+Within MCM V09, **ΣG** represents the total self-consistent organization of the continuum. It is not an external structure imposed upon the continuum, but the organizational state arising from the collective interaction of all local continuum processes.
+
+The intrinsic update rate **τ** is not interpreted as physical time. Instead, it characterizes the capacity of the continuum to reorganize and update its global organizational state. Observable temporal phenomena are therefore regarded as consequences of continuum organization rather than fundamental ontological entities.
+
+The resulting ontological hierarchy is:
+
+```text
+D → ΣG → Space → Matter → Observable Physics
+```
+
+MCM V09 therefore shifts the focus from the ontology of a single continuum to the ontology of a self-organizing and continuously self-updating continuum.
+
+As the foundational document of the MCM research program, MCM V09 establishes the ontological framework from which all subsequent mathematical, physical, and applied developments are derived.
+
+---
+
+## MCM Research Program
 
 ```text
 Monistic Continuum Model (MCM): V09 (EN)         ✅ Completed
@@ -60,39 +68,36 @@ Monistic Continuum Model (MCM): V09 (EN)         ✅ Completed
 
 ---
 
-## Purpose
+## Role Within the Research Program
 
-The MCM_Roadmap defines the next stage of development following MCM9.
+Within this framework:
 
-Its objectives are:
+- **MCM V09** defines the ontology.
+- **MCM_Roadmap** defines the research program.
+- **MCM_Mathematics** will develop the corresponding mathematical structures.
+- **MCM_Physics** will investigate the resulting physical implications.
+- **Applied MCM Series** will explore domain-specific applications and test cases.
 
-- Establish a coherent research framework.
-- Define open organizational questions.
-- Specify research assumptions and methodology.
-- Define success criteria.
-- Guide future mathematical development.
-- Guide future physical development.
-- Provide a foundation for future applications.
-
-The roadmap is intentionally formulated as a research program rather than a completed physical theory.
+Together, these components form a long-term research framework for the systematic development of continuum-based organizational physics.
 
 ---
 
-## Current Status
+## Core Ontological Hierarchy
 
-| Component | Status |
-|------------|---------|
-| MCM V09 Ontology | ✅ Completed |
-| MCM_Roadmap | ✅ Completed |
-| MCM_Mathematics | ⏳ Planned |
-| MCM_Physics | ⏳ Planned |
-| Applied MCM Series | ⏳ Future Development |
+```text
+D → ΣG → Space → Matter → Observable Physics
+```
+
+where:
+
+- **D** = Continuum (ontological primitive)
+- **ΣG** = Global Organizational State
+- **Space** = Emergent organizational structure
+- **Matter** = Emergent stable organization
+- **Observable Physics** = Observable manifestations of continuum organization
 
 ---
 
 ## Keywords
 
-Monistic Continuum Model (MCM), MCM9, MCM_Roadmap, continuum ontology, continuum physics, organizational physics, global organizational state, ΣG, global modes, vortex quanta, stable organizational structures, emergence, emergent space, emergent matter, observable physics, continuum dynamics, propagation theory, theoretical physics, research roadmap
-
-
-Diese Fassung wirkt auf GitHub deutlich professioneller als ein klassisches Vorwort aus einer Publikation, weil sie den Projektstatus, die Roadmap und die zukünftige Struktur sofort sichtbar macht.
+Monistic Continuum Model, MCM9, continuum ontology, global organizational state, Sigma_G, intrinsic update rate, tau, continuum organization, self-organizing continuum, emergent space, emergent matter, observable physics, organizational ontology, continuum-based science, theoretical physics
