@@ -1,137 +1,106 @@
-# Monistic Continuum Model (MCM) V09 (EN)
+# MCM_Roadmap
 
-## Overview
-
-The **Monistic Continuum Model (MCM)** is a research framework based on the premise that reality originates from a single underlying continuum,
-
-\[
-D,
-\]
-
-from which all observable structures emerge through organization rather than through independent substances or ontological layers.
-
-The current reference version is:
-
-- **Monistic Continuum Model (MCM): V09 (EN)** ✅ Completed
-
-MCM V09 introduces the concepts of a **global organizational state**,
-
-\[
-\Sigma_G,
-\]
-
-and an intrinsic **update rate**,
-
-\[
-\tau,
-\]
-
-as fundamental properties of continuum organization.
-
-Unlike conventional approaches, \(\tau\) is not interpreted as physical time. It represents the intrinsic capacity of the continuum to continuously update and reorganize its organizational state.
-
-The central principle of MCM V09 is that all observable structures arise from the self-consistent organization of a single continuum.
+### A Research Roadmap for the Development of Continuum-Based Organizational Physics
 
 ---
 
-## Evolution from MCM V08 to MCM V09
+## Preface
 
-**MCM V08** established the ontology of a single continuum.
+The completion of MCM9 established a revised ontological framework in which the continuum **D** constitutes the sole ontological primitive and the global organizational state **ΣG** represents the total self-consistent organization of the continuum.
 
-**MCM V09** extends this foundation by introducing:
+While MCM9 provides the ontological foundation of a continuously self-organizing and self-updating continuum, it also reveals a number of unresolved questions concerning the emergence of space, matter, and observable physics.
 
-- the global organizational state \(\Sigma_G\),
-- the intrinsic update rate \(\tau\),
-- organizational self-consistency,
-- a formal emergence hierarchy,
-- explicit local-global organizational closure.
+The MCM_Roadmap was created to address this situation. Rather than introducing a new physical theory, it defines a structured research program derived from the ontology established by MCM9. Its purpose is to identify the principal open questions, establish methodological guidelines, define success criteria, and organize future research directions.
 
-The core organizational hierarchy is
+The roadmap focuses on the proposed organizational hierarchy
 
-\[
-D
-\longrightarrow
-\{\Sigma_G,\tau\}
-\longrightarrow
-V
-\longrightarrow
-L_V
-\longrightarrow
-\mathrm{Space}
-\longrightarrow
-\mathrm{Matter}
-\longrightarrow
-\mathrm{Observable\ Physics}.
-\]
+```text
+D → ΣG(Gn, QV, V) → Space → Matter → Observable Physics
+```
+
+and examines the research challenges associated with each organizational level.
+
+Accordingly, the MCM_Roadmap should be understood as a bridge between the completed ontology of MCM9 and the future mathematical and physical development of continuum-based organizational physics.
 
 ---
 
 ## Research Structure
 
 ```text
-Monistic Continuum Model (MCM): V09 (EN)  ✅ Completed
-└── Planck–Vortex Theory (PVT): V06 (DE)  🔄 In Development
-        ├── Continuum Dynamics                     ✅ Concept Defined
-        ├── Vortex Quantum Theory                 ✅ Concept Defined
-        ├── Stable Vortex Theory                  ✅ Concept Defined
-        ├── Emergent Structure Theory             ✅ Concept Defined
-        ├── Unified Physical Framework            ✅ Concept Defined
-        └── Applied PVT Series                    ⏳ Future Development
-               ├── PVT_EPS
-               ├── Unified Physical Correspondence (UPC)
-               ├── Dark Matter (DM)
-               ├── Electron Entanglement (EE)
-               ├── Black Holes (BH)
-               └── Future Applications
+Monistic Continuum Model (MCM): V09 (EN)         ✅ Completed
+│
+├── MCM_Roadmap: V01 (EN)                        ✅ Completed
+│   │
+│   ├── Global Organizational State (ΣG)
+│   ├── Global Modes (Gn)
+│   ├── Vortex Quanta (QV)
+│   ├── Stable Organizational Structures (V)
+│   ├── Emergence of Space
+│   ├── Emergence of Matter
+│   └── Observable Physics
+│
+├── MCM_Mathematics                              ⏳ Planned
+│   │
+│   ├── Mathematical Structure of ΣG
+│   ├── Mathematical Theory of Global Modes
+│   ├── Mathematical Theory of Vortex Quanta
+│   └── Mathematical Theory of Stable Structures
+│
+├── MCM_Physics                                  ⏳ Planned
+│   │
+│   ├── Continuum Dynamics
+│   ├── Emergent Space
+│   ├── Emergent Matter
+│   ├── Propagation Theory
+│   └── Observable Physics
+│
+└── Applied MCM Series                           ⏳ Future Development
+    │
+    ├── PVT_EPS
+    ├── Unified Physical Correspondence (UPC)
+    ├── Dark Matter (DM)
+    ├── Electron Entanglement (EE)
+    ├── Black Holes (BH)
+    └── Future Applications
 ```
 
 ---
 
-## Central Ontological Principle
+## Purpose
 
-Reality consists of a single continuum
+The MCM_Roadmap does not present a completed physical theory. Instead, it serves as a structured research framework for investigating the organizational processes that may connect the ontology of MCM9 to future mathematical models, physical theories, and applied research programs.
 
-\[
-D.
-\]
+The roadmap defines:
 
-The global organizational state
+- Research assumptions
+- Methodological principles
+- Success criteria
+- Open questions
+- Research priorities
+- Future development paths
 
-\[
-\Sigma_G
-\]
-
-represents the self-consistent organization of the continuum, while
-
-\[
-\tau
-\]
-
-represents its intrinsic updating activity.
-
-Stable vortices, space, matter, and observable physics are interpreted as organizational manifestations of this continuously self-organizing continuum.
+Its primary objective is to provide a coherent and systematic foundation for the future development of continuum-based organizational physics.
 
 ---
 
 ## Status
 
 | Component | Status |
-|------------|--------|
+|------------|---------|
 | MCM V09 Ontology | ✅ Completed |
-| Organizational Framework | ✅ Completed |
-| Emergence Hierarchy | ✅ Completed |
-| Physical Correspondence | ✅ Conceptual |
-| Planck–Vortex Theory V06 | 🔄 In Development |
-| Applied PVT Programs | ⏳ Planned |
+| MCM_Roadmap | ✅ Completed |
+| Mathematical Formalization | ⏳ Planned |
+| Physical Theory Development | ⏳ Planned |
+| Applied Research Programs | ⏳ Future Development |
+
+---
+
+## Keywords
+
+Monistic Continuum Model, MCM9, MCM_Roadmap, continuum ontology, continuum physics, organizational physics, global organizational state, Sigma_G, emergence, emergent space, emergent matter, continuum dynamics, global modes, vortex quanta, stable organizational structures, research roadmap, theoretical physics, ontology
 
 ---
 
 ## License
 
-See repository license information.
-
-## Author
-
-**Walter Moosbrugger**
-
-Monistic Continuum Model Research Series
+This work is released for academic discussion, theoretical research, and scientific development within the broader MCM research program.
