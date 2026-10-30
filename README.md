@@ -1,9 +1,3 @@
-# MCM_Roadmap
-
-### A Research Roadmap for the Development of Continuum-Based Organizational Physics
-
----
-
 ## Preface
 
 The completion of MCM9 established a revised ontological framework in which the continuum **D** constitutes the sole ontological primitive and the global organizational state **ΣG** represents the total self-consistent organization of the continuum.
