@@ -36,8 +36,6 @@ The model serves as the reference framework for ongoing research within the Moni
 
 ---
 
-## Zenodo Archive
-
 This Zenodo publication serves as the **official archived reference version** of MCM10.1 and provides a persistent, citable record for future research, discussion, and development.
 
 Future versions may extend the framework through:
