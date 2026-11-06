@@ -1,103 +1,49 @@
-# Monistic Continuum Model (MCM): V09
+# Monistic Continuum Model (MCM10.1)
 
-### A Monistic Continuum Ontology of a Self-Organizing and Continuously Self-Updating Continuum
+## Official Zenodo Reference Edition
 
----
+The **Monistic Continuum Model (MCM10.1)** presents a unified ontological framework based on the principle of **Space-Matter Identity**. Within this model, space, matter, energy, structure, and propagation are interpreted as different manifestations of a single continuous substrate rather than fundamentally distinct entities.
 
-## Preface
+Matter is defined as a stable self-organized state of the continuum, while persistent vortex structures provide the ontological basis for localization, stability, and physical organization. Propagation is understood as the transmission of continuum states through the same underlying reality from which all physical structures emerge.
 
-The Monistic Continuum Model (MCM V09) represents a refinement and extension of the ontological framework established by MCM V08.
+MCM10.1 consolidates the conceptual evolution of the **Monistic Continuum Research Program** into a coherent and internally consistent ontology. The document focuses on foundational principles, axioms, definitions, and structural relations rather than empirical parameterization.
 
-Both versions are based on the principle that reality consists of a single continuum **D** from which all observable structures emerge. However, MCM V09 introduces two additional organizational concepts: the global organizational state **ΣG** and the intrinsic update rate **τ**.
-
-Within MCM V09, **ΣG** represents the total self-consistent organization of the continuum. It is not an external structure imposed upon the continuum, but the organizational state arising from the collective interaction of all local continuum processes.
-
-The intrinsic update rate **τ** is not interpreted as physical time. Instead, it characterizes the capacity of the continuum to reorganize and update its global organizational state. Observable temporal phenomena are therefore regarded as consequences of continuum organization rather than fundamental ontological entities.
-
-The resulting ontological hierarchy is:
-
-```text
-D → ΣG → Space → Matter → Observable Physics
-```
-
-MCM V09 therefore shifts the focus from the ontology of a single continuum to the ontology of a self-organizing and continuously self-updating continuum.
-
-As the foundational document of the MCM research program, MCM V09 establishes the ontological framework from which all subsequent mathematical, physical, and applied developments are derived.
+Its primary purpose is to establish an ontological framework from which future mathematical formulations, physical models, and theoretical investigations may be systematically developed.
 
 ---
 
-## MCM Research Program
+## Core Ontological Principles
 
-```text
-Monistic Continuum Model (MCM): V09 (EN)         ✅ Completed
-│
-├── MCM_Roadmap: V01 (EN)                        ✅ Completed
-│   │
-│   ├── Global Organizational State (ΣG)
-│   ├── Global Modes (Gn)
-│   ├── Vortex Quanta (QV)
-│   ├── Stable Organizational Structures (V)
-│   ├── Emergence of Space
-│   ├── Emergence of Matter
-│   └── Observable Physics
-│
-├── MCM_Mathematics                              ⏳ Planned
-│   │
-│   ├── Mathematical Structure of ΣG
-│   ├── Mathematical Theory of Global Modes
-│   ├── Mathematical Theory of Vortex Quanta
-│   └── Mathematical Theory of Stable Structures
-│
-├── MCM_Physics                                  ⏳ Planned
-│   │
-│   ├── Continuum Dynamics
-│   ├── Emergent Space
-│   ├── Emergent Matter
-│   ├── Propagation Theory
-│   └── Observable Physics
-│
-└── Applied MCM Series                           ⏳ Future Development
-    │
-    ├── PVT_EPS
-    ├── Unified Physical Correspondence (UPC)
-    ├── Dark Matter (DM)
-    ├── Electron Entanglement (EE)
-    ├── Black Holes (BH)
-    └── Future Applications
-```
+- Reality consists of a single continuous substrate.
+- Space and matter are ontologically identical manifestations of this substrate.
+- Physical structures emerge through self-organization within the continuum.
+- Persistent vortex structures provide stability and localization.
+- Energy represents organized continuum dynamics.
+- Propagation is the transmission of continuum states through the continuum itself.
+- No fundamental dualism between space and matter exists.
 
 ---
 
-## Role Within the Research Program
+## Scope of MCM10.1
 
-Within this framework:
+MCM10.1 is primarily a **foundational ontology**. It does not attempt to provide a complete empirical theory or parameterized physical model. Instead, it establishes:
 
-- **MCM V09** defines the ontology.
-- **MCM_Roadmap** defines the research program.
-- **MCM_Mathematics** will develop the corresponding mathematical structures.
-- **MCM_Physics** will investigate the resulting physical implications.
-- **Applied MCM Series** will explore domain-specific applications and test cases.
+- Axiomatic foundations
+- Formal definitions
+- Structural relations
+- Ontological consistency
+- Conceptual groundwork for future development
 
-Together, these components form a long-term research framework for the systematic development of continuum-based organizational physics.
-
----
-
-## Core Ontological Hierarchy
-
-```text
-D → ΣG → Space → Matter → Observable Physics
-```
-
-where:
-
-- **D** = Continuum (ontological primitive)
-- **ΣG** = Global Organizational State
-- **Space** = Emergent organizational structure
-- **Matter** = Emergent stable organization
-- **Observable Physics** = Observable manifestations of continuum organization
+The model serves as the reference framework for ongoing research within the Monistic Continuum Research Program.
 
 ---
 
-## Keywords
+## Zenodo Archive
 
-Monistic Continuum Model, MCM9, continuum ontology, global organizational state, Sigma_G, intrinsic update rate, tau, continuum organization, self-organizing continuum, emergent space, emergent matter, observable physics, organizational ontology, continuum-based science, theoretical physics
+This Zenodo publication serves as the **official archived reference version** of MCM10.1 and provides a persistent, citable record for future research, discussion, and development.
+
+Future versions may extend the framework through:
+
+- Mathematical formalization
+- Physical modeling
+- Computational
