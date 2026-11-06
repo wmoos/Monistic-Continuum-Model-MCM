@@ -1,7 +1,5 @@
 # Monistic Continuum Model (MCM10.1)
 
-## Official Zenodo Reference Edition
-
 The **Monistic Continuum Model (MCM10.1)** presents a unified ontological framework based on the principle of **Space-Matter Identity**. Within this model, space, matter, energy, structure, and propagation are interpreted as different manifestations of a single continuous substrate rather than fundamentally distinct entities.
 
 Matter is defined as a stable self-organized state of the continuum, while persistent vortex structures provide the ontological basis for localization, stability, and physical organization. Propagation is understood as the transmission of continuum states through the same underlying reality from which all physical structures emerge.
