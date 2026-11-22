@@ -1,5 +1,3 @@
-Für GitHub würde ich das Vorwort etwas leserfreundlicher gestalten und als README-Abschnitt formulieren:
-
 # Monistic Continuum Model (MCM) Version 10.1
 
 ## Preface
@@ -35,6 +33,3 @@ The long-term objective is the development of a coherent and predictive continuu
 **Walter Moosbrugger**  
 Wels, Austria  
 2026
-
-
-Diese Version eignet sich gut für GitHub, weil sie schnell erfassbar ist und den Abschnitt Current Status sowie Future Development klar hervorhebt. Das wirkt für Besucher professioneller als ein langer Fließtext.
