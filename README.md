@@ -1,49 +1,40 @@
-# Preface
+Für GitHub würde ich das Vorwort etwas leserfreundlicher gestalten und als README-Abschnitt formulieren:
 
-The *Monistic Continuum Model (MCM 10.1)* serves as the foundation of a long-term research program dedicated to the investigation of physical reality from the perspective of a dynamic continuum.
+# Monistic Continuum Model (MCM) Version 10.1
 
-With the publication of MCM 10.1, a unified theoretical framework was introduced that brings together ontological foundations, mathematical structures, operators, methodological principles, and a consistent description of central physical processes within a common model. The purpose of the **MCM Foundation Series** is to systematically develop and document the theoretical foundations of this approach.
+## Preface
 
-As research progressed, it became evident that the complexity and scope of MCM 10.1 present a particular challenge. Many questions arising from the model extend far beyond the presentation of its basic principles and require dedicated investigation. At the same time, the large number of interconnected concepts can make individual topics difficult to examine in isolation.
+The **Monistic Continuum Model (MCM)** is an ongoing continuum-based research program that explores the possibility that all physical phenomena emerge from a single ontological foundation: the continuum and its internal dynamics.
 
-For this reason, the **MCM Research Notes** series was established as a complement to the **MCM Foundation Series**.
+Version **10.1** represents the current state of development of the framework. During its evolution, several companion theories have been established, including the **Continuum-Based Spacetime Principle (CBSP)**, the **Primary Vortex Theory (PVT)**, the **Unified Particle Correspondence (UPC)**, and related investigations into residual vortex structures and dark matter candidates.
 
-The Research Notes are not intended to replace the Foundation Series. Rather, they pursue a complementary strategy. While the Foundation Series defines the theoretical framework itself, the Research Notes focus on individual questions in a concise and targeted manner. Each issue addresses a clearly defined topic and examines its physical, methodological, or cosmological significance within the context of the MCM framework.
+Together, these works form an emerging theoretical architecture that seeks to connect continuum dynamics, wave formation, vortex organization, matter, charge, and particle structure within a unified conceptual framework.
 
-This strategic shift serves several purposes:
+### Current Status
 
-- Improving the transparency and accessibility of individual research questions.
-- Allowing complex relationships to be investigated step by step.
-- Establishing a clear distinction between foundational work and detailed studies.
-- Facilitating scientific discussion of specific topics.
-- Supporting the continuous development of the MCM Foundation Series through specialized investigations.
+- Ontological foundation established
+- Emergence hierarchy defined
+- Vortex-based matter framework developed
+- Electron, quark, and baryonic structures formulated
+- Charge hierarchy and correspondence principles introduced
 
-The MCM Research Notes therefore serve as an experimental and analytical research environment within the broader project. Insights gained from individual issues may subsequently be incorporated into revised versions of the MCM Foundation Series and contribute to the further consolidation of the model.
+### Future Development
 
-The relationship between the two publication series can be summarized as follows.
+Future work will focus on the quantitative formulation of the model, including:
 
-## MCM Foundation Series
+- Characteristic length and energy scales
+- Particle mass derivations
+- Stability criteria for vortex structures
+- Coupling relationships
+- Empirical and falsifiable predictions
 
-Theoretical foundations, structure, and framework.
+The long-term objective is the development of a coherent and predictive continuum-based description of physical reality.
 
-- Ontological foundations
-- Mathematical structures
-- Operator formalism
-- Methodological principles
-- Core theoretical architecture
+---
 
-## MCM Research Notes
+**Walter Moosbrugger**  
+Wels, Austria  
+2026
 
-Focused investigations of specific questions and consequences of the model.
 
-- Individual research problems
-- Physical interpretations
-- Cosmological implications
-- Methodological analyses
-- Exploratory theoretical studies
-
-The present first issue of the MCM Research Notes marks the beginning of this extended research strategy. Its purpose is to examine the methodological distinction between observation, interpretation, and cosmological extrapolation, thereby establishing a common foundation for the future development of the MCM Foundation Series.
-
-The Research Notes are therefore intended not only to address individual questions, but also to contribute to the gradual refinement, evaluation, and advancement of the theoretical foundations of the Monistic Continuum Model itself.
-
-Through this process, the MCM Foundation Series and the MCM Research Notes are expected to evolve together as complementary components of a unified research framework whose long-term objective is the systematic investigation of physical reality within the paradigm of the Monistic Continuum Model.
+Diese Version eignet sich gut für GitHub, weil sie schnell erfassbar ist und den Abschnitt Current Status sowie Future Development klar hervorhebt. Das wirkt für Besucher professioneller als ein langer Fließtext.
