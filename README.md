@@ -33,3 +33,4 @@ The long-term objective is the development of a coherent and predictive continuu
 **Walter Moosbrugger**  
 Wels, Austria  
 2026
+wmoos@liwest.at
